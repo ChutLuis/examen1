@@ -8,6 +8,8 @@ import gt.edu.url.examen1.impl.Monstruo;
  */
 public interface FabricaRanger {
     
+	
+	
     public void hacerAlgo();
     
     public boolean apilar(Monstruo monstruo);
